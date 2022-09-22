@@ -1,0 +1,17 @@
+h1 {
+    color:black;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    text-align:center;
+}
+
+span {
+    color:black;
+}
+
+#img-caption {
+    text-align: center;
+}
